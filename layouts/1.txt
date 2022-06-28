@@ -1,0 +1,9 @@
+A:52
+B:36
+C:18
+aaaaa..cccccc
+aaaaa..cc..Cc
+aaAaa.....ccc
+aa...........
+aa....bBb....
+.@...bbbbbbbb
